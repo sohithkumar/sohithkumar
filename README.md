@@ -2,4 +2,4 @@
 - 👀 I’m interested in MachineLearning, Distributed Systems, Algorithms and Data Structures, Crypto and Mathematics.
 - 🌱 I’m currently learning Haskell, Elixir, Rust, Lisp, JavaScript
 - 💞️ I’m looking to collaborate on Distriuted Systems, Cryptography or ML/AI systems.
-- 📫 Reach me: EMAIL: kumar.sohith @ gmail.com 
+- 📫 Reach me: EMAIL: avsohith @ gmail.com 

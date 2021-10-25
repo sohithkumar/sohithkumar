@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sohithkumar
-- 👀 I’m interested in MachineLearning, Distributed Systems, Algorithms and Data Structures, Crypto and Mathematics.
-- 💞️ I’m looking to collaborate on Distriuted Systems, Cryptography or ML/AI systems.
-- 📫 Reach me: EMAIL: avsohith @ gmail.com 
+- 👀 I’m working as AI Engineer. Looking forward for any software engineering opportunities.
+- 👀 I’m interested in MachineLearning, Distributed Systems, Algorithms and Data Structures, Cryptography and Simulation.
+- 📫 Reach me: EMAIL: a v s o h i t h @ gmail .com 
